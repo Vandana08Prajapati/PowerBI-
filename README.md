@@ -16,4 +16,14 @@ PowerBI Virtual Case Experience with PwC provides an opportunity to solve real w
 
 ![Pwc -internship certificate](https://user-images.githubusercontent.com/97601236/209358221-f90bedbc-eaf8-4005-9bcb-c65746e58a5a.png)
 
+# Call Trend Analysis 
+
+This case study deals with the Call Centre Trends. Here, we analyze the number of incoming calls, total calls answered, speed of calls answered, average call duration, overall satisfaction rating etc. To observe agents performance we can filter agents based on the requirement.The goal is to identify where the performance can be monitored and enhanced.
+
+Link to the Dashboard : https://app.powerbi.com/view?r=eyJrIjoiNGRiYTJlNmQtMGMzMC00MDBlLWI3MmYtMzE0YzZiMWE4YTI1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection8c817ff4923b4dee2b3f
+
+![Call Centre Trend](https://user-images.githubusercontent.com/97601236/209359290-c917f6b3-4eb3-4fe0-801b-146081fbc2cd.png)
+
+
+
 
