@@ -17,5 +17,4 @@ PowerBI Virtual Case Experience with PwC provides an opportunity to solve real w
 
 
 
-📊 Customer Retention (Customer demographics and insights
-📊 Diversity & Inclusion (Gender balance in the executive suite)
+
