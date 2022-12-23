@@ -12,3 +12,8 @@ PowerBI Virtual Case Experience with PwC provides an opportunity to solve real w
 📊 Diversity & Inclusion (Gender balance in the executive suite
 
 
+# Completion Certificate
+
+![Pwc -internship certificate](https://user-images.githubusercontent.com/97601236/209358221-f90bedbc-eaf8-4005-9bcb-c65746e58a5a.png)
+
+
