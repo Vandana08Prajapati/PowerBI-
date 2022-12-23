@@ -7,5 +7,5 @@ I'm glad to say I have successfully Completed PowerBI Virtual Case Experience wi
 PowerBI Virtual Case Experience with PwC provides an opportunity to solve real world business scenarios using Power BI.This experience consists of three case studies they are:
 
 📊 Call Centre Trends (Visualising customer and agent behaviour)
-📊 Customer Retention (Customer demographics and insights)
+📊 Customer Retention (Customer demographics and insights
 📊 Diversity & Inclusion (Gender balance in the executive suite)
