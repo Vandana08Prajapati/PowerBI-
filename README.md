@@ -9,3 +9,13 @@ PowerBI Virtual Case Experience with PwC provides an opportunity to solve real w
 📊 Call Centre Trends (Visualising customer and agent behaviour)
 📊 Customer Retention (Customer demographics and insights
 📊 Diversity & Inclusion (Gender balance in the executive suite)
+
+
+
+
+
+
+
+
+📊 Customer Retention (Customer demographics and insights
+📊 Diversity & Inclusion (Gender balance in the executive suite)
